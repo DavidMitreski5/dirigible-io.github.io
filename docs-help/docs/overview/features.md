@@ -2,8 +2,7 @@
 title: Features
 ---
 
-Features
-===
+
 
 !!! note
 	The feature set listed bellow contains only the major part of what is currently available. For more insights on what can be done with Eclipse Dirigible, we recommend to [try it out](http://trial.dirigible.io).
